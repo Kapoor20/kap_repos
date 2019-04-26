@@ -6,6 +6,7 @@ public class firstTest {
 
 		System.out.println("hello GIT ,wassup");
 		System.out.println("new changes pls do");
+		System.out.println("wow");
 
 	}
 }
